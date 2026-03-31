@@ -1,0 +1,44 @@
+{
+    "id": "redpanda",
+    "name": "RedPanda Network",
+    "description": "Panda Destekçileri",
+    "addresses": [
+        "play.redpandamc.com",
+        "oyna.redpandamc.com",
+        "mc.redpandamc.com"
+    ],
+    "primaryAddress": "play.redpandamc.com",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "tr",
+    "languages": [
+        "tr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://www.redpandamc.com",
+    "store": "https://redpandamc.com/store",
+    "compliance": {
+        "privacyPolicy": "https://www.redpandamc.com/privacy",
+        "termsOfService": "https://www.redpandamc.com/termsofservice",
+        "rules": "https://www.redpandamc.com/rules"
+    },
+    "presentationVideo": "",
+    "socials": {
+        "youtube": "@redpandamcaz",
+        "tiktok": "@redpandamc.az"
+        "instagram": "redpandamc.az",
+        "discord": "https://discord.gg/redpandamc"
+    },
+    "crossplay": false
+}
