@@ -29,16 +29,16 @@
     "website": "https://www.redpandamc.com",
     "store": "https://redpandamc.com/store",
     "compliance": {
-        "privacyPolicy": "https://www.redpandamc.com/privacy",
-        "termsOfService": "https://www.redpandamc.com/termsofservice",
-        "rules": "https://www.redpandamc.com/rules"
+        "privacyPolicy": "https://discord.redpandamc.com",
+        "termsOfService": "https://discord.redpandamc.com",
+        "rules": "https://discord.redpandamc.com"
     },
     "presentationVideo": "",
     "socials": {
         "youtube": "@redpandamcaz",
         "tiktok": "@redpandamc.az"
         "instagram": "redpandamc.az",
-        "discord": "https://discord.gg/redpandamc"
+        "discord": "https://discord.redpandamc.com"
     },
     "crossplay": false
 }
