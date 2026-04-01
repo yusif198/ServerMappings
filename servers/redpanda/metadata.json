@@ -3,9 +3,7 @@
     "name": "RedPandaMC",
     "description": "Panda supporters",
     "addresses": [
-        "oyna.redpandamc.com",
-        "mc.redpandamc.com",
-        "play.redpandamc.com"
+        "redpandamc.com"
     ],
     "primaryAddress": "play.redpandamc.com",
     "minecraftVersions": [
